@@ -1,0 +1,30 @@
+<DOCTYPE htm1>
+<htm1>
+
+<body style="background-color:blue-steel;">
+
+<h1> fjert promp </h1>
+<h2> fjert promp </h2>
+<h3> fjert promp </h3>
+<h4> fjert promp </h4>
+<h5> fjert promp </h5>
+
+<li> ting jeg liker: </h1>
+<li> fotball </li>
+<li> pc </li>
+<li> godis </li>
+
+<style>
+   
+    body{
+        text-align: center;
+
+h1{
+     color:blue;
+background-color:green;
+font-size:100px;
+
+   {
+</style>
+
+<p><strong>Takk!</strong></p>
